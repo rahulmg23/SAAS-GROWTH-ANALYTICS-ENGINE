@@ -6,7 +6,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue)](https://python.org)
 [![Pandas](https://img.shields.io/badge/Pandas-2.0%2B-orange)](https://pandas.pydata.org)
-[![Mixpanel](https://img.shields.io/badge/Mixpanel-Analytics-purple)](https://mixpanel.com)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 ---
@@ -97,7 +96,7 @@ TaskFlow was experiencing:
 
 ### 3. Cohort Retention Patterns 
 
-![Cohort Retention Heatmap](executive_dashboard.png)
+<img width="212" height="173" alt="Screenshot 2026-06-19 223427" src="https://github.com/user-attachments/assets/e165c6c5-129f-4cc5-a689-ff509ec9d65f" />
 
 **Finding:** Early cohorts (May) show better retention than recent cohorts (June). Recent onboarding changes may have hurt activation.
 
@@ -116,7 +115,7 @@ TaskFlow was experiencing:
 
 ---
 
-## 🛠️ Technical Implementation
+## Technical Implementation
 
 ### Analytics Stack
 
