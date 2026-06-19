@@ -284,9 +284,3 @@ MIT License — feel free to use this as a template for your own analytics proje
 
 **Built with 💙, Python, mixpanel and a lot of coffee.**
 """
-
-with open('/mnt/agents/output/README.md', 'w') as f:
-    f.write(readme_content)
-
-print("README.md saved!")
-print(f"\n Download: [README.md](sandbox:///mnt/agents/output/README.md)")
