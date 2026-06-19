@@ -96,7 +96,8 @@ TaskFlow was experiencing:
 
 ### 3. Cohort Retention Patterns 
 
-<img width="212" height="173" alt="Screenshot 2026-06-19 223427" src="https://github.com/user-attachments/assets/e165c6c5-129f-4cc5-a689-ff509ec9d65f" />
+<img width="212" height="173" alt="Screenshot 2026-06-19 223427" src="https://github.com/user-attachments/assets/a6c8a389-ff29-4dd4-825b-e8484ba5744a" />
+
 
 **Finding:** Early cohorts (May) show better retention than recent cohorts (June). Recent onboarding changes may have hurt activation.
 
